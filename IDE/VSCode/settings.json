@@ -1,0 +1,6 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true
+}
